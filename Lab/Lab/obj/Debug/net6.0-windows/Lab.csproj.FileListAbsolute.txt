@@ -1,0 +1,17 @@
+C:\Users\Александр\Desktop\аос\Lab\Lab\bin\Debug\net6.0-windows\Lab.exe
+C:\Users\Александр\Desktop\аос\Lab\Lab\bin\Debug\net6.0-windows\Lab.deps.json
+C:\Users\Александр\Desktop\аос\Lab\Lab\bin\Debug\net6.0-windows\Lab.runtimeconfig.json
+C:\Users\Александр\Desktop\аос\Lab\Lab\bin\Debug\net6.0-windows\Lab.dll
+C:\Users\Александр\Desktop\аос\Lab\Lab\bin\Debug\net6.0-windows\Lab.pdb
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Sockets.Client.resources
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.AssemblyInfo.cs
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.dll
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\refint\Lab.dll
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.pdb
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\Lab.genruntimeconfig.cache
+C:\Users\Александр\Desktop\аос\Lab\Lab\obj\Debug\net6.0-windows\ref\Lab.dll
